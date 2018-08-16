@@ -10,4 +10,4 @@ git clone https://github.com/GraphCMS/graphcms-examples.git && cd graphcms-examp
 
 ## Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/GraphCMS/graphcms-examples/tree/master/gatsby-source-plugin-blog)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/seandavidmcgee/graphcms-examples/tree/master/gatsby-source-plugin-blog)
